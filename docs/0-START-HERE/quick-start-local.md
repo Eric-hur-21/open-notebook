@@ -27,6 +27,7 @@ Run on a different computer, access from another. Needs network configuration.
 ## Step 2: Create Configuration (1 min)
 
 Create a new folder `open-notebook-local` and add this file:
+Note: Docker should be running
 
 **docker-compose.yml**:
 ```yaml
